@@ -1,5 +1,5 @@
 # Data Creator Camp 5회차 Leader Board
-2021/09/25 14:09
+2021/09/25 14:10
 
 |#|Team Name|Score(ARI)|Entries|  
 |:---:|:---:|:---:|:---:|  
